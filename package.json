@@ -1,0 +1,23 @@
+{
+  "name": "Seattle",
+  "version": "1.0.0",
+  "description": "I miss Seattle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaogangsang/Seattle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaogangsang/Seattle/issues"
+  },
+  "homepage": "https://github.com/xiaogangsang/Seattle#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
